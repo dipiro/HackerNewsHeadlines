@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>logo1</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>logo1</string>
+				</array>
+			</dict>
+			<key>logo2</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>logo2</string>
+				</array>
+			</dict>
+			<key>logo3</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>logo3</string>
+				</array>
+			</dict>
+			<key>logo4</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>logo4</string>
+				</array>
+			</dict>
+			<key>logo5</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>logo5</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string></string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string></string>
+			<key>UIPrerenderedIcon</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>backgroundColor</string>
+	</dict>
+</dict>
+</plist>
