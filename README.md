@@ -7,7 +7,9 @@ Key Features:
 * Enhanced Reading: Navigate large comment threads easily and enjoy readable typography.
 * Ad-Free Experience: No ads, no subscriptions, just pure content.
 
-Stack: SwiftUI, SwiftData, WebView, SwiftSoup, HN API, HTML Parser 
+Stack: SwiftUI, SwiftData, WebView, SwiftSoup, Hacker News API, HTML Parser 
+
+
 [Link to AppStore](https://apps.apple.com/us/app/hacker-news-headlines/id6503651730)
 
 <p float="left">
